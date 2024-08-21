@@ -1,4 +1,4 @@
-# Anime: Blog e Store
+# Anime: Blog & Store
 
 **Anime: Blog & Store** é uma plataforma dinâmica que combina a paixão por anime com uma experiência robusta de e-commerce. Este projeto oferece um blog abrangente com as últimas notícias, análises e insights sobre o mundo dos animes, ao lado de uma loja que oferece uma ampla variedade de produtos relacionados aos animes.
 
